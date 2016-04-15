@@ -70,7 +70,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-04-14 22:26:29</sys_updated_on>
         <table_name>sn_order_tracking_order</table_name>
-        <target_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</target_scope>
+        <target_scope/>
         <write_access>true</write_access>
     </sys_scope_table_access>
 </record_update>
