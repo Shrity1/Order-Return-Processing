@@ -3,14 +3,15 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <enforce_license>log</enforce_license>
-        <js_level/>
+        <js_level>traditional</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
         <menu/>
         <name>Order Return Processing›</name>
         <private>false</private>
         <restrict_table_access>true</restrict_table_access>
-        <runtime_access_tracking>enforcing</runtime_access_tracking>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_order_return</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
@@ -22,9 +23,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-14 19:38:18</sys_created_on>
         <sys_id>e91a93994ffa96007813fc728110c7b4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-04-14 22:34:57</sys_updated_on>
+        <sys_updated_on>2017-04-24 17:14:07</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>

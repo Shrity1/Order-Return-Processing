@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Return Status" max_length="40" name="x_snc_order_return_return_status" type="collection">
+        <element label="Order ID" max_length="32" name="order_id" type="string"/>
+        <element label="Return Status" max_length="40" name="return_status" type="string"/>
+        <index name="index">
+            <element name="order_id"/>
+        </index>
+    </element>
+</database>
